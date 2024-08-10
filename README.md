@@ -8,10 +8,8 @@ Jack's Pantry Buddy is a fully functional pantry tracking application that helps
 - ✏️ CRUD functionalities for pantry items
 - 📸 Image capture for items using device camera
 - 🔍 Search functionality for quick item lookup
-- 🔢 Automatic quantity tracking
 - 👨‍🍳 Recipe suggestions based on available ingredients
 - 🌓 Dark/Light mode toggle
-- 📱 Responsive design for various screen sizes
 
 ## 🛠️ Tech Stack
 - **Frontend:**
