@@ -28,4 +28,4 @@ Jack's Pantry Buddy is a fully functional pantry tracking application that helps
 
 ## 🚀 Deployed Application
 <p>Deployed using Vercel</p> 
-You can access the live application here: [Jack's Pantry Buddy](https://inventory-tracker-dgx2vzy86-jack-mas-projects-a795ad0f.vercel.app/)
+You can access the live application here: https://inventory-tracker-mu-inky.vercel.app/
