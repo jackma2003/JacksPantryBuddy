@@ -1,7 +1,7 @@
 # 🥘 Jack's Pantry Buddy
 
 ## 📝 Description
-Jack's Pantry Buddy is a fully functional pantry tracking application that helps users manage their kitchen inventory efficiently. This web-based app allows users to add, remove, edit, and track items in their pantry, complete with image capture functionality and recipe suggestions based on available ingredients.
+Jack's Pantry Buddy is a fully functional pantry tracking application that helps users manage their kitchen inventory efficiently. This web-based app allows users to add, remove, edit, and track items in their pantry, complete with an image capture functionality and recipe suggestions based on available ingredients.
 
 ## ✨ Features
 - 🔐 User authentication with Google Sign-In
